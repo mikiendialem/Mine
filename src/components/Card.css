@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+.rating{
+    display: flex;
+    color: orange;
+}
+.card{
+    display: flex;
+    gap: 50px;
+    margin-left: 100px;
+    flex-wrap: wrap;
+}
+.sub-card{
+    width: 300px;
+    height: 450px;
+    border: hidden;
+    background: rgb(248, 242, 242);
+}
+.sub-card img{
+    width: 90%;
+    height: 300px;
+    margin: 20px;
+    position: relative;
+    mix-blend-mode: multiply;
+} 
