@@ -15,6 +15,9 @@ function App() {
           <Route path="/about" component={About} />
           <Route path="/contacts" component={Contact} />
         </Routes>
+        <Card/>
+        <About/>
+        <Contact/>
       </div>
     </Router>
   );
