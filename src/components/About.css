@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+.about{
+   text-align: center;
+   width: 100%;
+   height: 200px;
+   background: linear-gradient(90deg,#204254,#894A3E); 
+}
+.about h1{
+    color: aquamarine;
+}
