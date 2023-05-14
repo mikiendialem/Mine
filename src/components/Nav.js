@@ -10,7 +10,7 @@ function Nav() {
         <div className='ul'>
           <ul>
             <li><Link to="/">Home</Link></li>
-            <li><Link to="/Card">Products</Link></li>
+            <li><Link to="/products">Products</Link></li>
             <li><Link to="/about">About</Link></li>
             <li><Link to="/contacts">Contacts</Link></li>
             <li><span className="material-symbols-outlined">shopping_bag</span></li>
